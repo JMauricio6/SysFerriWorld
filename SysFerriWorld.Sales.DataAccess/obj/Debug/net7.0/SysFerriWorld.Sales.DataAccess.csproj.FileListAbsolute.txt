@@ -1,0 +1,15 @@
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\bin\Debug\net7.0\SysFerriWorld.Sales.DataAccess.deps.json
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\bin\Debug\net7.0\SysFerriWorld.Sales.DataAccess.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\bin\Debug\net7.0\SysFerriWorld.Sales.DataAccess.pdb
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\bin\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\bin\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.pdb
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\obj\Debug\net7.0\SysFerriWorld.Sales.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\obj\Debug\net7.0\SysFerriWorld.Sales.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\obj\Debug\net7.0\SysFerriWorld.Sales.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\obj\Debug\net7.0\SysFerriWorld.Sales.DataAccess.AssemblyInfo.cs
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\obj\Debug\net7.0\SysFerriWorld.Sales.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\obj\Debug\net7.0\SysFerriWorld.Sales.DataAccess.csproj.CopyComplete
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\obj\Debug\net7.0\SysFerriWorld.Sales.DataAccess.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\obj\Debug\net7.0\refint\SysFerriWorld.Sales.DataAccess.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\obj\Debug\net7.0\SysFerriWorld.Sales.DataAccess.pdb
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.DataAccess\obj\Debug\net7.0\ref\SysFerriWorld.Sales.DataAccess.dll

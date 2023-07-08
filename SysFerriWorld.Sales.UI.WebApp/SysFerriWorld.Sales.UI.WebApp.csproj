@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SysFerriWorld.Sales.BusinessEntities\SysFerriWorld.Sales.BusinessEntities.csproj" />
+    <ProjectReference Include="..\SysFerriWorld.Sales.BusinessLogic\SysFerriWorld.Sales.BusinessLogic.csproj" />
+    <ProjectReference Include="..\SysFerriWorld.Sales.IOC\SysFerriWorld.Sales.IOC.csproj" />
+  </ItemGroup>
+
+</Project>

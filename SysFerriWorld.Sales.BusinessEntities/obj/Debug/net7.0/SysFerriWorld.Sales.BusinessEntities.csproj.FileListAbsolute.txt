@@ -1,0 +1,14 @@
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\bin\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.deps.json
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\bin\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.runtimeconfig.json
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\bin\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\bin\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.pdb
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.csproj.AssemblyReference.cache
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.AssemblyInfo.cs
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\obj\Debug\net7.0\refint\SysFerriWorld.Sales.BusinessEntities.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.pdb
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.genruntimeconfig.cache
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessEntities\obj\Debug\net7.0\ref\SysFerriWorld.Sales.BusinessEntities.dll

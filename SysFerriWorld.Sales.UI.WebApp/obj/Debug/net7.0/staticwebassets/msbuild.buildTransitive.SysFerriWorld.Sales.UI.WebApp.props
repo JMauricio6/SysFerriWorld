@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SysFerriWorld.Sales.UI.WebApp.props" />
+</Project>

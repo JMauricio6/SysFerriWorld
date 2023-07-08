@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SysFerriWorld.Sales.BusinessEntities\SysFerriWorld.Sales.BusinessEntities.csproj" />
+    <ProjectReference Include="..\SysFerriWorld.Sales.DataAccess\SysFerriWorld.Sales.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

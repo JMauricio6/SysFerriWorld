@@ -1,0 +1,17 @@
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\bin\Debug\net7.0\SysFerriWorld.Sales.BusinessLogic.deps.json
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\bin\Debug\net7.0\SysFerriWorld.Sales.BusinessLogic.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\bin\Debug\net7.0\SysFerriWorld.Sales.BusinessLogic.pdb
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\bin\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\bin\Debug\net7.0\SysFerriWorld.Sales.DataAccess.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\bin\Debug\net7.0\SysFerriWorld.Sales.BusinessEntities.pdb
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\bin\Debug\net7.0\SysFerriWorld.Sales.DataAccess.pdb
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessLogic.AssemblyInfo.cs
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessLogic.csproj.CopyComplete
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessLogic.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\obj\Debug\net7.0\refint\SysFerriWorld.Sales.BusinessLogic.dll
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\obj\Debug\net7.0\SysFerriWorld.Sales.BusinessLogic.pdb
+C:\Users\jmaur\Desktop\SysFerriWorld\SysFerriWorld\SysFerriWorld.Sales.BusinessLogic\obj\Debug\net7.0\ref\SysFerriWorld.Sales.BusinessLogic.dll
