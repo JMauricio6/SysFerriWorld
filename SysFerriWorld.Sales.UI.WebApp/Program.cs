@@ -1,6 +1,9 @@
+using SysFerriWorld.Sales.IOC;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.GetConfigurationApplication(builder.Configuration);
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
